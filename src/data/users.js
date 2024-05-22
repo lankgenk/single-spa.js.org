@@ -140,7 +140,7 @@ const users = [
   {
     caption: "Infomedia",
     image:
-      "https://www.infomedia.co.id/wp-content/uploads/2020/09/infomedia_logo.png",
+      "https://www.infomedia.co.id/_next/image?url=%2Flogo.png&w=640&q=75",
     infoLink: "https://www.infomedia.co.id",
     pinned: true,
   },
